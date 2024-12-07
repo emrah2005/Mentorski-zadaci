@@ -1,0 +1,2 @@
+# Mentorski-zadaci
+all excersises
