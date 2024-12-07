@@ -1,0 +1,44 @@
+h1:first-child{
+    text-align: center;
+}
+#table{
+    cellspacing: 10px;
+    border: 1px solid black;
+}
+
+#january{
+    background-color: rgb(223, 223, 223);
+    text-align: center;
+    margin-left: 11%;
+    
+}
+#february{
+    background-color : lightblue;
+    
+    text-align: center;
+margin-top: -314px;
+  margin-left: 36.5%;
+}
+#march{
+    background-color: rgb(206, 171, 171);
+    text-align: center;
+    margin-top: -334px;
+    margin-left: 62%;
+}
+#april{
+    background-color: lightgreen;
+    margin-left: 11%;
+    
+}
+#may{
+    background-color: pink;
+    margin-top: -20.8%;
+    margin-left: 36.5%;
+}
+#june{
+    background-color: lightblue;
+    margin-top: -20.8%;
+    margin-left: 62%;
+}
+
+
